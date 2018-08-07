@@ -59,5 +59,4 @@ print(superman.save_civilian(700))
 
 print(random.randint(1,10))
 
-while 1<9:
-	print("Gilad Yosef is a King")
+
